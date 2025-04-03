@@ -1,12 +1,16 @@
 export default function socials() {
   return (
-    <div>
+    <div class="socials">
 
-      <button>SING-UP NOW</button>
+      <div class="button-container">
+        <button>SING-UP NOW</button>
+      </div>
 
-      <div>
-        <h6>FOLLOW US</h6>
+      <div class="links">
         <ul>
+          <li>
+            <h6>FOLLOW US</h6>
+          </li>
           <li>
             <a href="#"><i class="fa-brands fa-facebook"></i></a>
           </li>
