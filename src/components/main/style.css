@@ -1,0 +1,10 @@
+main {
+  background-color: rgb(28,28,28);
+  color: white;
+  padding: 2rem 0;
+}
+
+main div {
+  font-size: 2rem;
+  font-weight: bold;
+}
