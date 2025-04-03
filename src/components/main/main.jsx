@@ -2,7 +2,7 @@ export default function main() {
   return (
     <main>
 
-      <div>--&lt; Content goes here &gt;--</div>
+      <div>--&gt; Content goes here &lt;--</div>
 
     </main>
   )
