@@ -1,4 +1,4 @@
-import CTABar from "./CTABar"
+import CTABar from "./navigation"
 
 export default function footer() {
   return (
