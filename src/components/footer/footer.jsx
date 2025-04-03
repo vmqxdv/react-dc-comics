@@ -1,10 +1,10 @@
-import CTABar from "./navigation"
+import Navigation from "./navigation"
 
 export default function footer() {
   return (
     <footer>
 
-      <CTABar/>
+      <Navigation/>
 
     </footer>
   )
