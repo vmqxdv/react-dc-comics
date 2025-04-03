@@ -13,7 +13,15 @@ header .navigation {
 header .navigation ul {
   display: flex;
   justify-content: space-between;
+  font-weight: 500;
 }
+
+header .navigation ul li:hover a {
+  color: rgb(13,109,198);
+  border-bottom: 4px solid rgb(13,109,198);
+  padding-bottom: 2.48rem /* Va bene cosi */
+}
+
 
 header .main-logo img {
   width: 4.5rem;
