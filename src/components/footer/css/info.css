@@ -4,7 +4,7 @@ footer .info {
   background-size: cover;
   background-position: center;
   overflow: hidden;
-  padding: 2rem
+  padding: 2rem 20rem;
 }
 
 footer .info .links {
@@ -27,8 +27,8 @@ footer .info h6 {
 }
 
 footer .info img {
-  width: 35rem;
+  width: 42rem;
   position: absolute;
-  top: -5rem;
-  right: 8rem;
+  top: -7rem;
+  right: 14rem;
 }
