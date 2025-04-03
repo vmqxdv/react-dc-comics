@@ -19,3 +19,7 @@ header .navigation ul {
 header .main-logo img {
   width: 4.5rem;
 }
+
+header a {
+  color: black;
+}
