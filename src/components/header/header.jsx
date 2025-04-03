@@ -3,7 +3,7 @@ import Navigation from './navigation'
 
 export default function header() {
   return (
-    <header>
+    <header class="bg-white d-flex justify-content-between align-self-center">
       <Logo/>
       <Navigation/>  
     </header>

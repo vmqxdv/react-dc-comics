@@ -1,6 +1,6 @@
 export default function CTABar() {
   return (
-    <div>
+    <div class="bg-primary text-light">
 
       <ul>
         <li>

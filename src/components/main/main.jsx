@@ -1,8 +1,8 @@
 export default function main() {
   return (
-    <main>
+    <main class="bg-dark">
 
-      <div>--&gt; Content goes here &lt;--</div>
+      <div class="text-light">--&gt; Content goes here &lt;--</div>
 
     </main>
   )
