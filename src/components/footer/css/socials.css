@@ -1,0 +1,31 @@
+footer .socials {
+  background-color: rgb(48,48,48);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+footer .socials .button-container button {
+  border: 2px solid rgb(13,109,198);
+  background-color: transparent;
+  padding: 0.5rem;
+  color: white;
+  font-weight: bold;
+}
+
+footer .socials ul {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 2rem;
+}
+
+footer .socials ul:first-child {
+  color: rgb(15,120,232);
+}
+
+footer .socials ul li:not(:first-child) a {
+  color: rgb(121,121,121);
+  text-decoration: none;
+}
