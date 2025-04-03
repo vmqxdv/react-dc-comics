@@ -1,0 +1,29 @@
+footer .info {
+  position: relative;
+  background-image: url('../../../assets/img/footer-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  padding: 2rem
+}
+
+footer .info .links {
+  width: 40%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+footer .info .links > div {
+  margin-right: 2rem;
+}
+
+footer .info h6 {
+  font-size: 1.2rem;
+}
+
+footer .info img {
+  width: 30rem;
+  position: absolute;
+  top: -4rem;
+  right: 10rem;
+}
