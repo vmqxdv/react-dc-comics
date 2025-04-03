@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+
+header .navigation {
+  width: 70%;
+}
+
+header .navigation ul {
+  display: flex;
+  justify-content: space-between;
+}
