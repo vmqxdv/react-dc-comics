@@ -8,11 +8,9 @@ import './css/socials.css'
 export default function footer() {
   return (
     <footer>
-
       <Navigation/>
       <Info/>
       <Socials/>
-
     </footer>
   )
 };
