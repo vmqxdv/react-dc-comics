@@ -1,0 +1,22 @@
+footer .navigation {
+  padding: 2rem 0;
+  background-color: rgb(2,130,249);
+  font-size: 0.8rem;
+}
+
+footer .navigation ul {
+  display: flex;
+  align-items: center;
+}
+
+footer .navigation li {
+  text-align: center;
+  width: calc(100% / 5);
+}
+
+footer .navigation img {
+  max-width: 3rem;
+  max-height: 3rem;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+}
