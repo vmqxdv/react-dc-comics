@@ -13,17 +13,22 @@ footer .info .links {
   flex-wrap: wrap;
 }
 
+footer .info .links a {
+  color: rgb(121,121,121);;
+}
+
 footer .info .links > div {
   margin-right: 2rem;
 }
 
 footer .info h6 {
+  color: white;
   font-size: 1.2rem;
 }
 
 footer .info img {
-  width: 30rem;
+  width: 35rem;
   position: absolute;
-  top: -4rem;
-  right: 10rem;
+  top: -5rem;
+  right: 8rem;
 }
