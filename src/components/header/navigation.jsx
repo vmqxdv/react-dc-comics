@@ -1,6 +1,6 @@
 export default function navigator() {
   return (
-    <ul class="d-flex">
+    <ul>
 
       <li>
         <div>

@@ -1,6 +1,6 @@
 export default function info() {
   return (
-    <div class="d-flex">
+    <div>
 
       <div>
         <h6>DC COMICS</h6>
