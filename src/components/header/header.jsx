@@ -1,9 +1,10 @@
 import Logo from './logo';
 import Navigation from './navigation'
+import './header.css'
 
 export default function header() {
   return (
-    <header class="bg-white d-flex justify-content-between align-items-center">
+    <header>
       <Logo/>
       <Navigation/>  
     </header>
