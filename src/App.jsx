@@ -3,12 +3,16 @@ import Header from './components/header/header'
 import Main from './components/main/main'
 import Footer from './components/footer/footer'
 
+
+import headerNavigationPages from './data/headerNavigationPages.json'
+import footerInfoLinks from './data/footerInfoLinks.json'
+
 export default function App() {
   return (
     <>
-      <Header/>
+      <Header pages={headerNavigationPages}/>
       <Main/>
-      <Footer/>
+      <Footer links={footerInfoLinks}/>
     </>
   )
 };
