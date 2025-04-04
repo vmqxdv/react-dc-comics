@@ -1,34 +1,34 @@
 {
   "dcComics": [
-    "Characters",
-    "Comics",
-    "Movies",
-    "TV",
-    "Games",
-    "Videos",
-    "News"
+    { "text": "Characters", "url": "#" },
+    { "text": "Comics", "url": "#" },
+    { "text": "Movies", "url": "#" },
+    { "text": "TV", "url": "#" },
+    { "text": "Games", "url": "#" },
+    { "text": "Videos", "url": "#" },
+    { "text": "News", "url": "#" }
   ],
   "dc": [
-    "Term Of Use",
-    "Privacy policy (New)",
-    "Ad Choices",
-    "Advertising",
-    "Jobs",
-    "Subscriptions",
-    "CPSC Certificates",
-    "Ratings",
-    "Shop Help",
-    "Contact Us"
+    { "text": "Term Of Use", "url": "#" },
+    { "text": "Privacy policy (New)", "url": "#" },
+    { "text": "Ad Choices", "url": "#" },
+    { "text": "Advertising", "url": "#" },
+    { "text": "Jobs", "url": "#" },
+    { "text": "Subscriptions", "url": "#" },
+    { "text": "CPSC Certificates", "url": "#" },
+    { "text": "Ratings", "url": "#" },
+    { "text": "Shop Help", "url": "#" },
+    { "text": "Contact Us", "url": "#" }
   ],
   "sites": [
-    "DC",
-    "MAD Magazine",
-    "DC Kids",
-    "DC Universe",
-    "DC Power Visa"
+    { "text": "DC", "url": "#" },
+    { "text": "MAD Magazine", "url": "#" },
+    { "text": "DC Kids", "url": "#" },
+    { "text": "DC Universe", "url": "#" },
+    { "text": "DC Power Visa", "url": "#" }
   ],
   "shop": [
-    "Shop DC",
-    "Shop DC Collectibles"
+    { "text": "Shop DC", "url": "#" },
+    { "text": "Shop DC Collectibles", "url": "#" }
   ]
 }
