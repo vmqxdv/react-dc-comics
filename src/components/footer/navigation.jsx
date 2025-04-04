@@ -1,6 +1,6 @@
 export default function CTABar() {
   return (
-    <div class="navigation">
+    <div className="navigation">
 
       <ul>
         <li>

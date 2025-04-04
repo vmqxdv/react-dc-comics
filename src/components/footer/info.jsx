@@ -1,6 +1,6 @@
 export default function info() {
   return (
-    <div class="info">
+    <div className="info">
 
       <div className="links">
         <div>
