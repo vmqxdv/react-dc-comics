@@ -10,8 +10,8 @@ main li {
 }
 
 main li .comic-cover-container {
-  width: 8rem;
-  height: 8rem;
+  width: 10rem;
+  height: 10rem;
   overflow: hidden;
 }
 
@@ -22,5 +22,6 @@ main li img {
 main li .comic-series {
   font-size: 0.8rem;
   text-transform: uppercase;
-  margin: 1rem 0
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
