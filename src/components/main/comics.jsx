@@ -1,3 +1,5 @@
+import './css/comics.css'
+
 export default function comics(props) {
   const { comics: comicsData } = props;
 
@@ -6,7 +8,7 @@ export default function comics(props) {
       <div className="comic-cover-container">
         <img src={comic.thumb} alt={comic.description} />
       </div>
-      <div className="comic-title">{comic.title}</div>
+      <div className="comic-series">{comic.series}</div>
     </li>
   )
 
