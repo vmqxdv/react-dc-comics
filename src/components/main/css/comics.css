@@ -1,3 +1,7 @@
+main .content {
+  padding: 2rem 20rem;
+}
+
 main ul {
   display: flex;
   flex-wrap: wrap;
