@@ -1,4 +1,4 @@
-import './style.css'
+import './css/main.css'
 import Comics from './comics'
 
 export default function main(props) {
