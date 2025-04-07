@@ -1,0 +1,26 @@
+main ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem
+}
+
+main li {
+  width: calc(100% / 7);
+}
+
+main li .comic-cover-container {
+  width: 8rem;
+  height: 8rem;
+  overflow: hidden;
+}
+
+main li img {
+  width: 100%;
+}
+
+main li .comic-series {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  margin: 1rem 0
+}
