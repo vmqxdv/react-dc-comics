@@ -1,5 +1,35 @@
 main {
   background-color: rgb(28,28,28);
   color: white;
-  padding: 2rem 20rem;
+}
+
+
+main .jumbotron {
+  height: 24rem;
+  background-size: cover;
+  background-image: url('../../../assets/img/jumbotron.jpg');
+}
+
+main .content {
+  position: relative;
+  place-items: center;
+}
+
+main .tag {
+  font-weight: bolder;
+  font-size: 1.3rem;
+  position: absolute;
+  top: -22px;
+  left: 18%;
+  background-color: rgb(2,130,249);
+  padding: 0.4rem 1.4rem;
+}
+
+main button {
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+  background-color: rgb(2,130,249);
+  border: none;
+  padding: 0.3rem 3rem;
 }
