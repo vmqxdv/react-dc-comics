@@ -1,10 +1,11 @@
 import './style.css'
+import Comics from './comics'
 
-export default function main() {
+export default function main(props) {
   return (
     <main>
 
-      <div>--&gt; Content goes here &lt;--</div>
+      <Comics comics={props.comics}/>
 
     </main>
   )
